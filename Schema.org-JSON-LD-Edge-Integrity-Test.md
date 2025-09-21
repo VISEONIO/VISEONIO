@@ -22,4 +22,4 @@
 
 ---
 
-*Based on [VISEON.IO](VISEON.IO) Edge Architecture principles for AI-discoverable knowledge graphs.*"
+*Based on [VISEON.IO](https://VISEON.IO) Edge Architecture principles for AI-discoverable knowledge graphs.*"
