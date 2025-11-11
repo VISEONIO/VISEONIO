@@ -2,11 +2,11 @@
 
 **AI-Native Web Discovery Platform | Smarter.SEO Solutions**
 
-VISEON ([VISEON.IO](https://viseon.io)) is the world's first fully automated AI-native web discovery platform, designed to prevent your brand from getting lost in the digital archives while negating the need to spend extensively to be found.
+VISEON ([VISEON.IO](https://viseon.io)) is the world's first fully automated AI-native web discovery audit platform, designed to prevent your brand from getting lost in the digital archives while negating the need to spend extensively to be found.
 
 ## Overview
 
-VISEON revolutionises how businesses approach search engine optimisation and web discovery through advanced AI-powered automation. Our platform provides intelligent, data-driven knowledge graph metadata 'SEO' solutions that adapt to the ever-changing digital landscape. Also providing audit and compliance capability.
+VISEON revolutionises how businesses approach search engine optimisation and web discovery through advanced AI-powered automation. Our platform provides intelligent, data-driven knowledge graph metadata 'SEO' solutions that adapt to the frameworks of the ever-changing digital landscape. Providing audit and compliance capability.
 
 ## Key Features
 
@@ -40,11 +40,11 @@ VISEON revolutionises how businesses approach search engine optimisation and web
 
 ## Technology Stack
 
-- Advanced machine learning algorithms
-- Natural language processing (NLP)
-- Semantic search optimisation
-- Cross-domain schema solutions
-- Real-time data analytics
+- Advanced machine learning algorithms // Future Versions
+- Natural language processing (NLP) - Ask Discovery
+- Semantic search optimisation - V1.0
+- Cross-domain schema solutions - V1.0
+- Real-time data analytics - V1.0 // Real time at the time of reporting.
 
 ## Getting Started
 
