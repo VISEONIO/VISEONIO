@@ -6,7 +6,7 @@ VISEON ([VISEON.IO](https://viseon.io)) is the world's first fully automated AI-
 
 ## Overview
 
-VISEON revolutionises how businesses approach search engine optimisation and web discovery through advanced AI-powered automation. Our platform provides intelligent, data-driven knowledge graph metadata 'SEO' solutions that adapt to the frameworks of the ever-changing digital landscape. Providing audit and compliance capability.
+VISEON revolutionises how businesses approach search engine optimisation and web discovery through advanced AI-powered automation. Our platform provides intelligent, data-driven knowledge graph metadata 'SEO' solutions that adapt to the frameworks of the ever-changing digital landscape, including for Agentic Commerce. Providing audit and compliance capability.
 
 ## Key Features
 
