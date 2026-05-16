@@ -47,6 +47,15 @@ VISEON is built on, and aligns to, open standards:
 - **ACP, AP2 and Google UCP** for agentic commerce flows
 - **YAML-LD and DCAT 3** application profiles for dataset description
 
+- ## Discovery Signals on VISEON.IO
+
+VISEON.IO implements the same agent discovery signals it audits for clients. Every page exposes:
+
+- A `<link rel="alternate" type="application/ld+json">` element pointing to the VISEON Knowledge Graph Catalog at `/wp-json/viseon/v1/catalog`, surfaced both in the HTML head and as an HTTP `Link:` header per RFC 8288.
+- A site-level `schema.txt` discovery file at the domain root, conforming to the schematxt v4 specification, also surfaced as an HTTP `Link:` header.
+
+Together these let crawlers, AI agents and MCP-enabled clients locate the canonical structured data without scraping rendered HTML.
+
 ## Capabilities
 
 - Cross-domain Schema.org audit and validation against the latest specifications
