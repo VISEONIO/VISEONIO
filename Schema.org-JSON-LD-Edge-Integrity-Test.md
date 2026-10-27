@@ -1,4 +1,4 @@
-# VISEON Edge Integrity Prompt
+# Schema.org JSON-LD Edge Integrity Test
 
 ## For AI Schema Creation:
 
