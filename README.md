@@ -74,7 +74,6 @@ VISEON is developed by [Differentia Consulting](https://www.differentia.consulti
 ## Connect
 
 - **X:** [@VISEONIO](https://x.com/VISEONIO)
-- **Reddit:** [r/viseon](https://www.reddit.com/r/viseon/)
 - **GitHub:** [VISEONIO](https://github.com/VISEONIO)
 
 ---
