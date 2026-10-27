@@ -10,7 +10,7 @@ This repository is the public reference for VISEON. The platform itself runs at 
 
 ## One governed semantic ecosystem. Four complementary solutions.
 
-Every VISEON solution is governed, built around authoritative business meaning, and MCP-addressable.
+Every VISEON solution is governed, built around authoritative business meaning, and MCP-addressable. All four solutions are live.
 
 | Solution | What it does |
 |---|---|
@@ -67,6 +67,9 @@ VISEON is developed by [Differentia Consulting](https://www.differentia.consulti
 
 - **Free Semantic Entity Assessment:** [viseon.io/semantic-entity-assessment](https://viseon.io/semantic-entity-assessment/)
 - **Website:** [viseon.io](https://viseon.io)
+- **Pricing:** [viseon.io/pricing](https://viseon.io/pricing/)
+- **Problems VISEON solves, and how it compares:** [viseon.io/problems](https://viseon.io/problems/)
+- **FAQ:** [viseon.io/faq](https://viseon.io/faq/)
 - **Glossary:** [viseon.io/terms](https://viseon.io/terms/)
 - **Articles:** [viseon.io/articles](https://viseon.io/articles/)
 - **Contact:** info@viseon.io · +44 1494 622 600
