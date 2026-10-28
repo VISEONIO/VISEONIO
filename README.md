@@ -9,6 +9,12 @@
 This repository is the public reference for VISEON. The platform itself runs at [viseon.io](https://viseon.io), which is the canonical source for what VISEON is and does.
 Our ARD listing for the VISEON MCP capabilities and example questions can be found here [VISEON-MCP](https://viseon.io/.well-known/ard.json)
 
+## Use the VISEON MCP server
+
+**[`io.viseon/semantic-intelligence` — MCP developer guide](MCP-SERVER.md)** covers the remote endpoint, transport, all seven tools, resources and prompt availability, authentication, VS Code / Copilot configuration and example prompts.
+
+Connect to **`https://viseon.io/mcp`** using **Streamable HTTP**. Public knowledge-graph queries require **no API key, account or paid plan**. The [ARD manifest](https://viseon.io/.well-known/ard.json) provides complementary machine-readable discovery metadata.
+
 ## One governed semantic ecosystem. Four complementary solutions.
 
 Every VISEON solution is governed, built around authoritative business meaning, and MCP-addressable. All four solutions are live.
