@@ -6,7 +6,7 @@
 
 [VISEON](https://viseon.io) is a Semantic Control Plane (operating system for AI) for governing organisational meaning and evidence across enterprise systems, websites and AI interfaces. It serves as the Governed Navigator for enterprise AI, giving autonomous engines and LLMs the explicit pathways, guardrails and auditability required to discover, discuss and transact with precision.
 
-This repository is the public reference for VISEON. The platform itself runs at [viseon.io](https://viseon.io), which is the canonical source for what VISEON is and does.
+This repository is the public reference for VISEON. The platform itself runs at [VISEON.IO](https://viseon.io), which is the canonical source for what VISEON is and does.
 Our ARD listing for the VISEON MCP capabilities and example questions can be found here [VISEON-MCP](https://viseon.io/.well-known/ard.json)
 
 ## Use the VISEON MCP server
@@ -73,7 +73,7 @@ VISEON is developed by [Differentia Consulting](https://www.differentia.consulti
 ## Get started
 
 - **Free Semantic Entity Assessment:** [viseon.io/semantic-entity-assessment](https://viseon.io/semantic-entity-assessment/)
-- **Website:** [viseon.io](https://viseon.io)
+- **Website:** [VISEON.IO](https://viseon.io)
 - **Pricing:** [viseon.io/pricing](https://viseon.io/pricing/)
 - **Problems VISEON solves, and how it compares:** [viseon.io/problems](https://viseon.io/problems/)
 - **FAQ:** [viseon.io/faq](https://viseon.io/faq/)
