@@ -55,6 +55,7 @@ Schema.org, JSON-LD, the Model Context Protocol, NLWeb and Agentic Resource Disc
 ## In this repository
 
 - `README.md`: this file.
+- [FAQ.md](FAQ.md): What does VISEON do?
 - `Schema.org-JSON-LD-Edge-Integrity-Test.md`: a reference prompt for checking that a Schema.org `@graph` is fully connected by bidirectional edges.
 
 ## Other public repositories
