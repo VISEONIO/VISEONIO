@@ -15,16 +15,17 @@ Our ARD listing for the VISEON MCP capabilities and example questions can be fou
 
 Connect to **`https://viseon.io/mcp`** using **Streamable HTTP**. Public knowledge-graph queries require **no API key, account or paid plan**. The [ARD manifest](https://viseon.io/.well-known/ard.json) provides complementary machine-readable discovery metadata.
 
-## One governed semantic ecosystem. Four complementary solutions.
+## One governed semantic ecosystem. Five complementary solutions.
 
-Every VISEON solution is governed, built around authoritative business meaning, and MCP-addressable. All four solutions are live.
+Every VISEON solution is governed, built around authoritative business meaning, and MCP-addressable. All five solutions are live.
 
 | Solution | What it does |
 |---|---|
 | [VISEON for Web](https://viseon.io/viseon-for-web/) | Makes your brand, organisation, products and services understandable to AI through a governed digital twin and knowledge graph, accessible to visitors through VISEON Ask and to AI agents through MCP. |
 | [VISEON for Enterprise](https://viseon.io/viseon-for-enterprise/) | Establishes a governed Semantic Control Plane connecting enterprise systems, business definitions and relationships, giving AI agents authoritative context through MCP without replacing existing access controls. |
-| [VISEON for Qlik (vCat)](https://viseon.io/viseon-for-qlik-vcat/) | Governs the meaning of your Qlik analytics estate, making applications, metrics, master items and business context discoverable and actionable by AI agents through MCP. |
-| [VISEON Data Assurance](https://viseon.io/viseon-data-assurance/) | Establishes trust in enterprise data through governed quality, completeness and compliance checks, publishing verifiable evidence and data assurance status to AI agents through MCP. |
+| [VISEON Catalog (vCat)](https://viseon.io/viseon-catalog/) | The authoritative catalog of an organisation's business meaning. Data stewards approve every definition, and AI agents read them through vCat MCP before they act, so every answer carries its governed definition and trust level. [VISEON Catalog for Qlik](https://viseon.io/viseon-catalog/viseon-catalog-for-qlik/) drafts descriptions for the master measures, dimensions and fields in Qlik apps for a steward to approve. |
+| [VISEON MCP Gateway](https://viseon.io/viseon-mcp-gateway/) | The single, controlled door between an organisation's AI assistants and its business systems. Every request carries the person's own Microsoft Entra ID sign-in, each role sees only the tools it has been granted, and every call is authorised again and written to a tamper-evident audit log. |
+| [VISEON Data Assurance](https://viseon.io/viseon-data-assurance/) | Proves your data can be trusted by people, auditors, regulators and AI. It scores every row, not a sample, inside your own environment against nine data quality dimensions drawn from DAMA-DMBOK and aligned to ISO/IEC 25012, and publishes the evidence to AI agents through MCP. |
 
 ## Discover, Discuss, Transact
 
@@ -45,7 +46,7 @@ viseon.io is built the way VISEON builds for clients. Every page, product, servi
 - [VISEON Ask](https://viseon.io/ask/) answers visitors from the graph, with sources.
 - An MCP endpoint at `viseon.io/mcp`.
 - An Agentic Resource Discovery (ARD) manifest at [`/.well-known/ard.json`](https://viseon.io/.well-known/ard.json).
-- A listing in the official MCP Registry as `io.viseon/semantic-intelligence`.
+- A listing in the official MCP Registry and GitHub's MCP registry as `io.viseon/semantic-intelligence`.
 - The knowledge graph catalog at [`/wp-json/viseon/v1/catalog`](https://viseon.io/wp-json/viseon/v1/catalog) and a [`schema.txt`](https://viseon.io/schema.txt) entity index, both advertised in the HTTP `Link:` headers and `<link rel="alternate">` elements of every page.
 
 ## Built on open standards
@@ -55,6 +56,7 @@ Schema.org, JSON-LD, the Model Context Protocol, NLWeb and Agentic Resource Disc
 ## In this repository
 
 - `README.md`: this file.
+- `MCP-SERVER.md`: the developer guide to the public VISEON MCP server.
 - `Schema.org-JSON-LD-Edge-Integrity-Test.md`: a reference prompt for checking that a Schema.org `@graph` is fully connected by bidirectional edges.
 
 ## Other public repositories

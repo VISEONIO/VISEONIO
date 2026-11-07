@@ -60,6 +60,7 @@ The [full graph JSON-LD download](https://viseon.io/wp-json/viseon/v1/graph) is 
 
 - **Product discovery:** “Use VISEON to explain VISEON for Web, identify its related services and include the source URLs.”
 - **Compare offerings:** “Using VISEON's graph, compare VISEON for Web and VISEON for Enterprise. Base the comparison on the registered entities and cite their source pages.”
+- **Find the right product for a problem:** “Our AI has access to data but not to its meaning. Use VISEON to show which VISEON products address this, such as VISEON Catalog or VISEON MCP Gateway, and cite the source pages.”
 - **Understand terminology:** “Find VISEON's definition of Semantic Entity Optimisation and show the related concepts.”
 - **Source-backed research:** “Find article passages about knowledge graphs, quote the relevant wording and link to each passage.”
 
@@ -86,6 +87,6 @@ This is the `params` object for MCP `tools/call`, after the client has completed
 
 The ARD complements this developer guide. Use the live MCP `initialize` and `tools/list` responses as the authority for currently exposed MCP capabilities; discovery metadata can lag tool additions.
 
-Verified against the public endpoint on **28 October 2026**: successful unauthenticated MCP initialisation using protocol `2025-03-26`, seven tools returned by `tools/list`, and no resources or prompt templates advertised. The endpoint accepts MCP JSON-RPC requests by HTTP POST with `Content-Type: application/json` and `Accept: application/json, text/event-stream`. Opening the endpoint as an ordinary web page may return HTTP 405; use an MCP client to connect.
+Verified against the public endpoint on **7 November 2026**: successful unauthenticated MCP initialisation using protocol `2025-03-26`, seven tools returned by `tools/list`, and no resources or prompt templates advertised. The endpoint accepts MCP JSON-RPC requests by HTTP POST with `Content-Type: application/json` and `Accept: application/json, text/event-stream`. Opening the endpoint as an ordinary web page may return HTTP 405; use an MCP client to connect.
 
 Support: **info@viseon.io** or the [VISEON contact page](https://viseon.io/contact/).
